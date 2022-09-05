@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fullAndroidCourseClassC.iml" filepath="$PROJECT_DIR$/.idea/modules/fullAndroidCourseClassC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/fullAndroidCourseClassC.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/fullAndroidCourseClassC.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/fullAndroidCourseClassC.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/fullAndroidCourseClassC.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/fullAndroidCourseClassC.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/fullAndroidCourseClassC.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/fullAndroidCourseClassC.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/fullAndroidCourseClassC.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
