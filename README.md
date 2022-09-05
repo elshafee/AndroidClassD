@@ -7,7 +7,7 @@ This project is for training purposes in Android with Kotlin Course.
 <img width="200" heigth="400"  src="https://user-images.githubusercontent.com/28203059/177842209-9c1fc2c9-9751-4f29-99c1-d7314b115793.png">
 ===================================================
 
-##Note this repo will updated soon so keep to read tihs file
+## Note this repo will updated soon so keep to read tihs file
 
 `//Dependencies used i the application
 dependencies {
