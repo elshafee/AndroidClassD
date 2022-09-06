@@ -4,5 +4,6 @@
 ## to navigate to the Kotlin basics code please switch the branch to Kotlin or by [Kotlin Code](https://github.com/elshafee/AndroidClassD/tree/kotlin)
 ## to navigate to the android code please switch the branch to Android or by [Android Code](https://github.com/elshafee/AndroidClassD/tree/android)
 
-### Please note that we will add specific description linked with the session records to help you access the material easier
-### data will be updated soooon....
+
+
+Session 1 Testing => [code](https://github.com/elshafee/AndroidClassD/tree/androidTesting)
